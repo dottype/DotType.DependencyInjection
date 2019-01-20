@@ -1,0 +1,14 @@
+{
+    "name": "dottype.dependencyinjection",
+    "version": "0.0.1",
+    "description": "Dependency Injection package for DotType",
+    "author": "DotType",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dottype/DotType.DependencyInjection.git"
+    },
+    "dependencies": {
+        "dottype": "0.0.12"
+    }
+}
